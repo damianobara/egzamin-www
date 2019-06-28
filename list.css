@@ -1,0 +1,12 @@
+@media (orientation: landscape) {
+}
+
+@media (orientation: portrait) {
+    list{
+        visibility: hidden;
+    }
+    .opis{
+        visibility: hidden;
+    }
+
+}
